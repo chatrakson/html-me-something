@@ -1,8 +1,14 @@
-article {
-    background-color: aqua;
+.center-body {
+    padding: 100px 0 75px 0;
+    height: 100%;
+    box-sizing: border-box; 
+    
 }
 
-img.centered {
-    margin-left: 50%;
-    margin-right: 50%;
+#yellowColor {
+    background-color: yellow;
+}
+
+h2 {
+    color: teal;
 }
